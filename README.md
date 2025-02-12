@@ -52,7 +52,7 @@ Version Control: Git/GitHub
 ![image](https://github.com/sathiya7g/MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS/blob/main/Normal%20output.png)
 
 #### Output2 - Warning 
-![image](https://github.com/sathiya7g/MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS/blob/main/warning%20output.png)
+![image](https://github.com/sathiya7g/MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS/blob/main/ppl%20with%20gun%20sample%205.jpg)
 ![image](https://github.com/sathiya7g/MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS/blob/main/warning%20output.png)
 
 Detection Accuracy: 94.58%
