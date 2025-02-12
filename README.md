@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The project focuses on developing a real-time, AI-powered image classification framework to detect potential hazards and ensure safety in various environments. By leveraging multiple deep learning models, the system classifies objects, identifies risks, and triggers appropriate safety alerts, enhancing security and decision-making processes.
+The project focuses on developing a real-time, ML-powered image classification framework to detect potential hazards and ensure safety in various environments. By leveraging multiple deep learning models, the system classifies objects, identifies risks, and triggers appropriate safety alerts, enhancing security and decision-making processes.
 
 ## About
 The Multi-Model Image Classification Framework for Safety Alerts is designed to integrate multiple ML-based models for object classification and risk assessment. Traditional safety monitoring systems often rely on manual surveillance or single-model detection, which can lead to inefficiencies. This project overcomes these limitations by employing multiple deep-learning techniques to enhance accuracy, scalability, and real-time hazard detection.
@@ -70,12 +70,18 @@ This project lays the groundwork for future developments in automated risk detec
 [1] D. H. A. Tran, "Real-time object detection using MobileNet and COCO-SSD for surveillance
 systems," 2022 IEEE International Conference on Computer Vision and Pattern Recognition
 (CVPR), pp. 1234-1241, 2022, doi: 10.1109/CVPR.2022.01234.
+
+
 [2] P. K. Shrestha and K. T. Lee, "A hybrid deep learning model for real-time weapon detection in
 public spaces," 2021 IEEE International Conference on Image Processing (ICIP), pp.
 456-460, 2021, doi: 10.1109/ICIP.2021.9351234.
+
+
 [3] J. R. Harrison, T. L. Zhang, and W. S. Lee, "Enhancing pose estimation and safety alerts in
 real-time using PoseNet," 2020 IEEE International Conference on Robotics and Automation
 (ICRA), pp. 567-573, 2020, doi: 10.1109/ICRA.2020.9072189.
+
+
 [4] L. W. Chen, S. M. Gupta, and V. A. Patel, "Integration of MobileNet and Coco-SSD for
 multi-model object detection in safety-critical environments," 2019 IEEE International
 Conference on Image Processing (ICIP), pp. 1425-1429, 2019, doi:
