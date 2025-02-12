@@ -41,7 +41,7 @@ Version Control: Git/GitHub
  Threat Detection: Identifies hazardous objects (e.g., weapons)
  Action & Alerts: Triggers safety notifications or alarms
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![image](https://github.com/sathiya7g/MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS/blob/main/Architecture.png)
 
 
 ## Output
