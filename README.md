@@ -1,4 +1,4 @@
-## Multi-Model Image Classification Framework for Safety Alerts
+## MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS
 
 ## Project Description
 
