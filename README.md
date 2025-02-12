@@ -37,8 +37,8 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 
 ![image](https://github.com/sathiya7g/MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS/blob/main/Normal%20output.png)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2 - Warning 
+![image](https://github.com/sathiya7g/MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS/blob/main/warning%20output.png)
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
