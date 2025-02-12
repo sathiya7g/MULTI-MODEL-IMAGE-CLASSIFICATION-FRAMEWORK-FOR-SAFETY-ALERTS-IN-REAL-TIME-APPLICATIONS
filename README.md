@@ -39,6 +39,7 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 
 #### Output2 - Warning 
 ![image](https://github.com/sathiya7g/MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS/blob/main/warning%20output.png)
+![image](https://github.com/sathiya7g/MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS/blob/main/warning%20output.png)
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
