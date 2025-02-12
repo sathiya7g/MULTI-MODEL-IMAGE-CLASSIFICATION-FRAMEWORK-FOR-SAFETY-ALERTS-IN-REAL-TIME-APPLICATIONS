@@ -34,7 +34,7 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Predictions 
-
+![image](https://github.com/sathiya7g/MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS/blob/main/random%20objs%20sample1.png)
 ![image](https://github.com/sathiya7g/MULTI-MODEL-IMAGE-CLASSIFICATION-FRAMEWORK-FOR-SAFETY-ALERTS-IN-REAL-TIME-APPLICATIONS/blob/main/Normal%20output.png)
 
 #### Output2 - Warning 
